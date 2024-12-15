@@ -1,0 +1,6 @@
+env/
+.ipynb_checkpoints/
+training_checkpoints/
+lfw/
+lfw.tgz
+model.h5
